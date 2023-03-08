@@ -12,6 +12,6 @@
  <img src="https://img.shields.io/badge/three.js-353535?style=for-the-badge&logo=three.js&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/Adobe Photoshop-353535?style=for-the-badge&logo=Adobe Photoshop&logoColor=31A8FF"/>
  <img src="https://img.shields.io/badge/Adobe Illustrator-353535?style=for-the-badge&logo=Adobe Illustrator&logoColor=FF9A00"/>
- <img src="https://img.shields.io/badge/Adobe After Effects-353535?style=for-the-badge&logo=Adobe After Effects&logoColor=FF9A00"/>
+ <img src="https://img.shields.io/badge/Adobe After Effects-353535?style=for-the-badge&logo=Adobe After Effects&logoColor=9999FF"/>
 </div>
 </div>
