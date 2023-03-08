@@ -9,6 +9,6 @@
  <img src="https://img.shields.io/badge/Styled Components-353535?style=for-the-badge&logo=Styled Components&logoColor=DB7093"/>
  <img src="https://img.shields.io/badge/Sass-353535?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
  <img src="https://img.shields.io/badge/Svelte-353535?style=for-the-badge&logo=Svelte&logoColor=FF3E00"/>
- <img src="https://img.shields.io/badge/three.js-353535?style=for-the-badge&logo=three.js&logoColor=FF3E00"/>
+ <img src="https://img.shields.io/badge/three.js-353535?style=for-the-badge&logo=three.js&logoColor=000000"/>
 </div>
 </div>
