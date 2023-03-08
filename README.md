@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Front-end Developer hyowon Jung</h1>
-<h3>📚Tech Stacks📚</h3>
+<h3>🖥 Tech Stacks</h3></br>
 <div style="width: 500px">
  <img src="https://img.shields.io/badge/HTML5-353535?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
  <img src="https://img.shields.io/badge/CSS3-353535?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
