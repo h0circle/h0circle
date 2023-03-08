@@ -1,4 +1,4 @@
-<div styled="">
+<div aling="center">
 <h1>Front-end Developer hyowon Jung</h1>
 <h3>Tech Stacks</h3>
 <div>
