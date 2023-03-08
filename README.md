@@ -1,6 +1,7 @@
-<h1>Front-end Developer, Hyowon Jung</h1>
-<h3>💻 Tech Stacks</h3>
 
+<h1>Front-end Developer hyowon Jung</h1>
+<h3>Tech Stacks</h3>
+<img src="https://img.shields.io/badge/HTML-3766AB?style=flat-square&logo=HTML&logoColor=white"/>
 <!--
 **h0circle/h0circle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
