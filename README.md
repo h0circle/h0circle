@@ -6,7 +6,7 @@
  <img src="https://img.shields.io/badge/CSS3-353535?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
  <img src="https://img.shields.io/badge/JavaScript-353535?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
  <img src="https://img.shields.io/badge/React-353535?style=for-the-badge&logo=React&logoColor=61DAFB"/>
- <img src="https://img.shields.io/badge/styled-component-353535?style=for-the-badge&logo=styled-component&logoColor=DB7093"/>
+ <img src="https://img.shields.io/badge/styled-components-353535?style=for-the-badge&logo=styled-components&logoColor=DB7093"/>
 </div>
 <!--
 **h0circle/h0circle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
