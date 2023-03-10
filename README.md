@@ -3,7 +3,9 @@
  <code>👩‍💻front-end Developer</code>
  <code>Hyowon Jung</code>
  </h2>
- 
+ <div>
+ <a href="https://github.com/h0circle"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0circle&layout=compact" /></a> <br>
+ </div>
 <h3>💻Tech Stacks</h3>
 <div dir="auto">
  <img src="https://img.shields.io/badge/HTML5-EAEAEA?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
@@ -31,6 +33,3 @@
  <a href="https://h0circle.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EAEAEA?style=for-the-badge&logo=Tistory&logoColor=000000"/>
  </div>
  <br>
- <div>
- <a href="https://github.com/h0circle"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0circle&layout=compact" /></a> <br>
- </div>
