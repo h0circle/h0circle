@@ -19,6 +19,6 @@
 </div>
 <h3>🖊Contact Me</h3>
  <div>
-   <a href="malito:hcircle093@gmail.com"><img src="https://img.shields.io/badge/Gmail-353535?style=for-the-badge&logo=Gmail&logoColor=EA4335"></a>
+   <img src="https://img.shields.io/badge/Gmail-353535?style=for-the-badge&logo=Gmail&logoColor=EA4335&link=mailto:hcircle093@gmail.com"/>
  </div>
 </div>
