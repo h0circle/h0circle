@@ -13,6 +13,7 @@
  <img src="https://img.shields.io/badge/Svelte-EAEAEA?style=for-the-badge&logo=Svelte&logoColor=FF3E00"/></br>
  <img src="https://img.shields.io/badge/Styled Components-EAEAEA?style=for-the-badge&logo=Styled Components&logoColor=DB7093"/>
  <img src="https://img.shields.io/badge/Sass-EAEAEA?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
+ <img src="https://img.shields.io/badge/Tailwind CSS-EAEAEA?style=for-the-badge&logoColor=06B6D4" />
  <img src="https://img.shields.io/badge/three.js-EAEAEA?style=for-the-badge&logo=three.js&logoColor=000000"/></br>
  <img src="https://img.shields.io/badge/Adobe Photoshop-EAEAEA?style=for-the-badge&logo=Adobe Photoshop&logoColor=31A8FF"/>
  <img src="https://img.shields.io/badge/Adobe Illustrator-EAEAEA?style=for-the-badge&logo=Adobe Illustrator&logoColor=FF9A00"/>
