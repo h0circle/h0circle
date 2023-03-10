@@ -3,7 +3,7 @@
  <code>👩‍💻front-end Developer</code>
  <code>Hyowon Jung</code>
  </h2>
-<h3>🖥 Tech Stacks</h3>
+<h4>🛠Tech Stacks</h4>
 <div dir="auto">
  <img src="https://img.shields.io/badge/HTML5-353535?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
  <img src="https://img.shields.io/badge/CSS3-353535?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/Adobe Illustrator-353535?style=for-the-badge&logo=Adobe Illustrator&logoColor=FF9A00"/>
  <img src="https://img.shields.io/badge/Adobe After Effects-353535?style=for-the-badge&logo=Adobe After Effects&logoColor=9999FF"/>
 </div>
-<h3>💬 CoWork Tools</h3>
+<h4>💬CoWork Tools</h4>
  <div>
    <img src="https://img.shields.io/badge/Slack-353535?style=for-the-badge&logo=Slack&logoColor=4A154B"/>
    <img src="https://img.shields.io/badge/Trello-353535?style=for-the-badge&logo=Trello&logoColor=0052CC"/>
