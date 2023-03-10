@@ -32,5 +32,5 @@
  </div>
  <br>
  <div>
- <a href="https://github.com/h0circle"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0circle&layout=compact&hide_border=true" /></a> 
+ <a href="https://github.com/h0circle"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0circle&layout=compact" /></a> 
  </div>
