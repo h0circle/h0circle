@@ -28,4 +28,5 @@
 <h3>🖊Contact Me</h3>
  <div>
    <a href="mailto:hcircle093@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EAEAEA?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a>
+ <a href="https://h0circle.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EAEAEA?style=for-the-badge&logo=Tistory&logoColor=000000"/>
  </div>
