@@ -1,6 +1,6 @@
 <div align="center">
  <h2>
- <code>front-end Developer</code>
+ <code>👩‍💻front-end Developer</code>
  <code>Hyowon Jung</code>
  </h2>
 <h3>🖥 Tech Stacks</h3>
