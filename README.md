@@ -30,6 +30,7 @@
    <a href="mailto:hcircle093@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EAEAEA?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a>
  <a href="https://h0circle.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EAEAEA?style=for-the-badge&logo=Tistory&logoColor=000000"/>
  </div>
+ <br><br>
  <div>
  <a href="https://github.com/h0circle"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0circle&layout=compact&theme=nord&hide_border=true" /></a> 
  </div>
