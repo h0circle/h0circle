@@ -18,9 +18,11 @@
  <img src="https://img.shields.io/badge/Adobe Illustrator-EAEAEA?style=for-the-badge&logo=Adobe Illustrator&logoColor=FF9A00"/>
  <img src="https://img.shields.io/badge/Adobe After Effects-EAEAEA?style=for-the-badge&logo=Adobe After Effects&logoColor=9999FF"/>
 </div>
-<h3>Tools</h3>
+<h3>🛠Tools</h3>
 <div>
  <img src="https://img.shields.io/badge/Slack-EAEAEA?style=for-the-badge&logo=Slack&logoColor=4A154B"/>
+ <img src="https://img.shields.io/badge/Trello-EAEAEA?style=for-the-badge&logo=Trello&logoColor=0052CC"/>
+ <img src="https://img.shields.io/badge/Notion-EAEAEA?style=for-the-badge&logo=Notion&logoColor=000000"/>
 </div>
 <h3>🖊Contact Me</h3>
  <div>
